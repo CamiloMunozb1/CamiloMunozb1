@@ -1,4 +1,4 @@
-## Hi there, soy Camilo Muñoz  👋
+## Hi there, am Camilo Muñoz  👋
 
 <!--
 **CamiloMunozb1/CamiloMunozb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
