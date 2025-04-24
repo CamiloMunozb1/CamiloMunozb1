@@ -1,5 +1,5 @@
 ## Hi there, am Camilo Muñoz  👋
-Soy un programador junior que a lo largo de 8 meses, he aprendido los conceptos basicos de Python junto con git como control de versiones y hace unos meses en el gestor de bases de datos SQLite, mi objetivo es alcanzar a ser un desarrollador enfocado en backend y ciberseguridad. Busco que con mi codigo y conocimientos que alcance en la informatica tener soluciones optimas para los usuarios.
+Soy un programador junior que a lo largo de 3 años, he aprendido los conceptos basicos de Python junto con git como control de versiones y hace unos meses en el gestor de bases de datos SQLite, mi objetivo es alcanzar a ser un desarrollador enfocado en backend y ciberseguridad. Busco que con mi codigo y conocimientos que alcance en la informatica tener soluciones optimas para los usuarios.
 
 ## Mis intereses:
 * Aprendizaje continuo en las areas del desarrollo de Software.
